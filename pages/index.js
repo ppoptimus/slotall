@@ -1,11 +1,11 @@
 import Head from "next/head"
-import Image from "next/image"
 import styles from "../styles/Home.module.css"
 
 export default function Home() {
 	return (
 		<div className={styles.container}>
 			<Head>
+        <div>
 				<title>ทางเข้า PG SLOT | เว็บตรง แตกง่าย | ค่ายเกมอันดับหนึ่ง</title>
 				<meta httpEquiv='Content-Type' content='text/html; charset=utf-8' />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -15,7 +15,6 @@ export default function Home() {
 				/>
 				<meta name='keywords' content='PG SLOT,PGSLOT,ฟรีเครดิต,watafak,เกมส์ยิงปลา,เกมยิงปลา,เครดิตฟรี,pg game,SLOT' />
 				<meta name='title' content='PG SLOT | เว็บตรง แตกง่าย | ค่ายเกมอันดับหนึ่ง' />
-				<div>
 					<meta property='og:type' content='website' />
 					<meta property='og:title' content='สล็อตออนไลน์ | ฟรีเครดิต | ได้เงินจริง | WATAFAK88' />
 					<meta
@@ -70,9 +69,9 @@ export default function Home() {
 					target='_blank'
 					rel='noopener noreferrer'>
 					Brought to you by{" "}
-					<span className={styles.logo}>
+					<strong>
 						WATAFAK88
-					</span>
+					</strong>
 				</a>
 			</footer>
 		</div>
