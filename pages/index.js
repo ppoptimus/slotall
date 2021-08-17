@@ -22,8 +22,8 @@ export default function Home() {
 						property='og:description'
 						content='PG SLOT Online เปิดตลอด 24 ชั่วโมง, ระบบเติมเงินแบบเรียลไทม์, Auto deposit ระบบฝากถอนอัตโนมัติ, user เดียวเล่นได้ทุกเกม, สล็อตออนไลน์บนมือถือ, ได้เงินจริงมีฟรีเครดิต, แตกทีเป็นแสน'
 					/>
-					<meta property='og:site_name' content='slotall.fun' />
-          <meta property="og:image" content="https://watafak88.com/img/article/pg.png" />
+					{/* <meta property='og:site_name' content='slotall.fun' /> */}
+          {/* <meta property="og:image" content="https://watafak88.com/img/article/pg.png" /> */}
 
 				</div>
 
