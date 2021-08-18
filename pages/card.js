@@ -1,4 +1,3 @@
-
 import css from "../styles/card.module.css";
 
 export default function Card() {
@@ -19,7 +18,7 @@ export default function Card() {
                 <strong>Register</strong>
               </div>
               <p className={css.card__description}>
-                <strong>สมัครเล่น PGSLOT</strong> ค่ายเกมคาสิโนออนไลน์เปิดใหม่ ที่กำลังเป็นจุดสนใจจากนักเดิมพันมืออาชีพ
+                <strong>สมัครเล่น PGSLOT</strong> ค่ายเกมคาสิโนออนไลน์เปิดใหม่ ที่กำลังเป็นจุดสนใจ
               </p>
             </div>
           </div>
@@ -37,7 +36,9 @@ export default function Card() {
                 <img className={css.card__thumb} src="https://watafak88.com/img/menu/logo-nav.png" alt="pg slot" />
                 <strong>PlayGame</strong>
               </div>
-              <p className={css.card__description}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+              <p className={css.card__description}>
+                <strong>ทางเข้าเล่น PG SLOT</strong>สามารถเข้าเล่นได้ทั้งโทรศัพท์มือถือ คอมพิวเตอร์ แท็บเลต
+              </p>
             </div>
           </div>
         </li>
@@ -54,7 +55,7 @@ export default function Card() {
                 <img className={css.card__thumb} src="https://watafak88.com/img/menu/logo-nav.png" alt="pg slot" />
                 <strong>Credit Free</strong>
               </div>
-              <p className={css.card__description}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+              <p className={css.card__description}>แจกเครดิตฟรี 30 บาท ทำตามขั้นตอนง่ายๆ เพียงแค่ 3 ขั้นตอน**</p>
             </div>
           </div>
         </li>
@@ -71,7 +72,9 @@ export default function Card() {
                 <img className={css.card__thumb} src="https://watafak88.com/img/menu/logo-nav.png" alt="pg slot" />
                 <strong>Game Free</strong>
               </div>
-              <p className={css.card__description}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+              <p className={css.card__description}>
+                <strong>PG SLOT</strong>ทดลองเล่นฟรีแบบไม่อั้น กับเกมส์หลากหลาย Style แบบจุใจได้ที่นี่
+              </p>
             </div>
           </div>
         </li>
