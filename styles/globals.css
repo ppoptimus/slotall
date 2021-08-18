@@ -6,6 +6,7 @@ body {
   font-family: "Noto Sans JP", sans-serif;
   background-color: #3e0346;
   background-image: linear-gradient(90deg, #020e23 0%, #bb198d 100%);
+  text-align: center;
 }
 
 a {
