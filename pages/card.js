@@ -1,4 +1,4 @@
-import React from "react";
+
 import css from "../styles/card.module.css";
 
 export default function Card() {
@@ -7,7 +7,7 @@ export default function Card() {
       <ul className={css.cards}>
         <li>
           <div className={css.card}>
-            <a href="https://watafak88.com/#/register" target="_blank">
+            <a href="https://watafak88.com/#/register" target="_blank" rel="noreferrer">
               <img src="https://watafak88.com/img/promotion/pgslot_1-500.jpg" className={css.card__image} alt="pg slot" />
             </a>
             <div className={css.card__overlay}>
@@ -26,7 +26,7 @@ export default function Card() {
         </li>
         <li>
           <div className={css.card}>
-            <a href="https://watafak88.com/#/playgame" target="_blank">
+            <a href="https://watafak88.com/#/playgame" target="_blank" rel="noreferrer">
               <img src="https://watafak88.com/img/promotion/pgslot_3-500.jpg" className={css.card__image} alt="pg slot" />
             </a>
             <div className={css.card__overlay}>
@@ -43,7 +43,7 @@ export default function Card() {
         </li>
         <li>
           <div className={css.card}>
-            <a href="https://watafak88.com/#/credit" target="_blank">
+            <a href="https://watafak88.com/#/credit" target="_blank" rel="noreferrer">
               <img src="https://watafak88.com/img/promotion/pgslot_11-500.jpg" className={css.card__image} alt="pg slot" />
             </a>
             <div className={css.card__overlay}>
@@ -60,7 +60,7 @@ export default function Card() {
         </li>
         <li>
           <div className={css.card}>
-            <a href="https://pgslot-free.com/" target="_blank">
+            <a href="https://pgslot-free.com/" target="_blank" rel="noreferrer">
               <img src="https://watafak88.com/img/promotion/pgslot_5-500.jpg" className={css.card__image} alt="pg slot" />
             </a>
             <div className={css.card__overlay}>
