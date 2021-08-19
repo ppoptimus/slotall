@@ -36,7 +36,7 @@
   height: 100%;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  /* border-radius: 30px; */
+  border-radius: 30px;
 }
 
 .flipcardfront {
@@ -46,6 +46,7 @@
   border-style: solid;
   border-color: tomato;
 box-shadow: inset 0px 1px 11px 3px tomato;
+border-radius: 30px;
 }
 
 .flipcardback {
@@ -57,7 +58,7 @@ box-shadow: inset 0px 1px 11px 3px tomato;
     align-content: center;
     justify-content: center;
     align-items: center;
-  
+  border-radius: 30px;
 }
 .root {
   box-sizing: border-box;

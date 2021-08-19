@@ -15,7 +15,7 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot1} width={200} height={200} alt="pg slot" />
+                <Image src={pgslot1} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
               <a href="https://watafak88.com/#/register" target="_blank" rel="noopener noreferrer">
                 <div className={css.flipcardback}>
@@ -30,7 +30,7 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot2} width={200} height={200} alt="pg slot" />
+                <Image src={pgslot2} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
               <a href="https://watafak88.com/#/playgame" target="_blank" rel="noopener noreferrer">
                 <div className={css.flipcardback}>
@@ -45,7 +45,7 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot3} width={200} height={200} alt="pg slot" />
+                <Image src={pgslot3} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
               <a href="https://watafak88.com/#/credit" target="_blank" rel="noopener noreferrer">
                 <div className={css.flipcardback}>
@@ -60,7 +60,7 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot4} width={200} height={200} alt="pg slot" />
+                <Image src={pgslot4} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
               <a href="https://pgslot-free.com" target="_blank" rel="noopener noreferrer">
                 <div className={css.flipcardback}>
@@ -75,7 +75,7 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot5} width={200} height={200} alt="pg slot" />
+                <Image src={pgslot5} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
               <a href="https://watafak88.com/#/download" target="_blank" rel="noopener noreferrer">
                 <div className={css.flipcardback}>
@@ -90,7 +90,7 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot6} width={200} height={200} alt="pg slot" />
+                <Image src={pgslot6} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
               <a href="https://watafak88.com/#/download" target="_blank" rel="noopener noreferrer">
                 <div className={css.flipcardback}>
@@ -100,7 +100,6 @@ export default function Card() {
             </div>
           </div>
         </div>
-
       </div>
     </div>
   );
