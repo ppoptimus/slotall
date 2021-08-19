@@ -48,6 +48,9 @@
 box-shadow: inset 0px 1px 11px 3px tomato;
 border-radius: 30px;
 }
+.flipradius {
+  border-radius: 30px;
+}
 
 .flipcardback {
   background-color: #2980b9;
