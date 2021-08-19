@@ -1,10 +1,10 @@
-import Image from "next/image";
-import pgslot1 from "../public/img/pgslot_1-500.jpg";
-import pgslot2 from "../public/img/pgslot_3-500.jpg";
-import pgslot3 from "../public/img/pgslot_11-500.jpg";
-import pgslot4 from "../public/img/pgslot_5-500.jpg";
-import pgslot5 from "../public/img/download-pgslot.png";
-import pgslot6 from "../public/img/technique-pg-slots.jpg";
+// import Image from "next/image";
+// import pgslot1 from "../public/img/pgslot_1-500.jpg";
+// import pgslot2 from "../public/img/pgslot_3-500.jpg";
+// import pgslot3 from "../public/img/pgslot_11-500.jpg";
+// import pgslot4 from "../public/img/pgslot_5-500.jpg";
+// import pgslot5 from "../public/img/download-pgslot.png";
+// import pgslot6 from "../public/img/technique-pg-slots.jpg";
 import css from "../styles/card.module.css";
 
 export default function Card() {
@@ -15,7 +15,8 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot1} width={200} height={200} alt="pg slot" className={css.flipradius} />
+                {/* <Image src={pgslot1} width={310} height={310} alt="pg slot" className={css.flipradius} /> */}
+                <img src="img/pgslot_1-500.jpg" className={css.imgradius} width={310} height={310} alt="pg slot"></img>
               </div>
               <div className={css.flipcardback}>
                 <a href="https://watafak88.com/#/register" target="_blank" rel="noopener noreferrer">
@@ -30,7 +31,8 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot2} width={200} height={200} alt="pg slot" className={css.flipradius} />
+                {/* <Image src={pgslot2} width={310} height={310} alt="pg slot" className={css.flipradius} /> */}
+                <img src="img/pgslot_3-500.jpg" className={css.imgradius} width={310} height={310} alt="pg slot"></img>
               </div>
               <div className={css.flipcardback}>
                 <a href="https://watafak88.com/#/playgame" target="_blank" rel="noopener noreferrer">
@@ -45,7 +47,8 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot3} width={200} height={200} alt="pg slot" className={css.flipradius} />
+                {/* <Image src={pgslot3} width={310} height={310} alt="pg slot" className={css.flipradius} /> */}
+                <img src="img/pgslot_11-500.jpg" className={css.imgradius} width={100} height={100} alt="pg slot"></img>
               </div>
               <div className={css.flipcardback}>
                 <a href="https://watafak88.com/#/credit" target="_blank" rel="noopener noreferrer">
@@ -60,7 +63,8 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot4} width={200} height={200} alt="pg slot" className={css.flipradius} />
+                {/* <Image src={pgslot4} width={310} height={310} alt="pg slot" className={css.flipradius} /> */}
+                <img src="img/pgslot_5-500.jpg" className={css.imgradius} width={100} height={100} alt="pg slot"></img>
               </div>
               <div className={css.flipcardback}>
                 <a href="https://pgslot-free.com" target="_blank" rel="noopener noreferrer">
@@ -75,7 +79,8 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot5} width={200} height={200} alt="pg slot" className={css.flipradius} />
+                {/* <Image src={pgslot5} width={310} height={310} alt="pg slot" className={css.flipradius} /> */}
+                <img src="img/download-pgslot.png" className={css.imgradius} width={100} height={100} alt="pg slot"></img>
               </div>
               <div className={css.flipcardback}>
                 <a href="https://watafak88.com/#/download" target="_blank" rel="noopener noreferrer">
@@ -90,7 +95,8 @@ export default function Card() {
           <div className={css.flipcard}>
             <div className={css.flipcardinner}>
               <div className={css.flipcardfront}>
-                <Image src={pgslot6} width={200} height={200} alt="pg slot" className={css.flipradius} />
+                {/* <Image src={pgslot6} width={310} height={310} alt="pg slot" className={css.flipradius} /> */}
+                <img src="img/technique-pg-slots.jpg" className={css.imgradius} width={100} height={100} alt="pg slot"></img>
               </div>
               <div className={css.flipcardback}>
                 <a href="https://watafak88.com/#/download" target="_blank" rel="noopener noreferrer">
