@@ -17,11 +17,11 @@ export default function Card() {
               <div className={css.flipcardfront}>
                 <Image src={pgslot1} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
-              <a href="https://watafak88.com/#/register" target="_blank" rel="noopener noreferrer">
-                <div className={css.flipcardback}>
+              <div className={css.flipcardback}>
+                <a href="https://watafak88.com/#/register" target="_blank" rel="noopener noreferrer">
                   <h1>สมัครใหม่</h1>
-                </div>
-              </a>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -32,11 +32,11 @@ export default function Card() {
               <div className={css.flipcardfront}>
                 <Image src={pgslot2} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
-              <a href="https://watafak88.com/#/playgame" target="_blank" rel="noopener noreferrer">
-                <div className={css.flipcardback}>
+              <div className={css.flipcardback}>
+                <a href="https://watafak88.com/#/playgame" target="_blank" rel="noopener noreferrer">
                   <h1>เล่นเกมส์</h1>
-                </div>
-              </a>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -47,11 +47,11 @@ export default function Card() {
               <div className={css.flipcardfront}>
                 <Image src={pgslot3} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
-              <a href="https://watafak88.com/#/credit" target="_blank" rel="noopener noreferrer">
-                <div className={css.flipcardback}>
+              <div className={css.flipcardback}>
+                <a href="https://watafak88.com/#/credit" target="_blank" rel="noopener noreferrer">
                   <h1>เครดิตฟรี</h1>
-                </div>
-              </a>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -62,11 +62,11 @@ export default function Card() {
               <div className={css.flipcardfront}>
                 <Image src={pgslot4} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
-              <a href="https://pgslot-free.com" target="_blank" rel="noopener noreferrer">
-                <div className={css.flipcardback}>
+              <div className={css.flipcardback}>
+                <a href="https://pgslot-free.com" target="_blank" rel="noopener noreferrer">
                   <h1>เกมส์ฟรี</h1>
-                </div>
-              </a>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -77,11 +77,11 @@ export default function Card() {
               <div className={css.flipcardfront}>
                 <Image src={pgslot5} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
-              <a href="https://watafak88.com/#/download" target="_blank" rel="noopener noreferrer">
-                <div className={css.flipcardback}>
+              <div className={css.flipcardback}>
+                <a href="https://watafak88.com/#/download" target="_blank" rel="noopener noreferrer">
                   <h2>ดาวน์โหลด</h2>
-                </div>
-              </a>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -92,11 +92,11 @@ export default function Card() {
               <div className={css.flipcardfront}>
                 <Image src={pgslot6} width={200} height={200} alt="pg slot" className={css.flipcardfront} />
               </div>
-              <a href="https://watafak88.com/#/download" target="_blank" rel="noopener noreferrer">
-                <div className={css.flipcardback}>
+              <div className={css.flipcardback}>
+                <a href="https://watafak88.com/#/download" target="_blank" rel="noopener noreferrer">
                   <h1>บทความ</h1>
-                </div>
-              </a>
+                </a>
+              </div>
             </div>
           </div>
         </div>
