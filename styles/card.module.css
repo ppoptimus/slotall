@@ -12,7 +12,7 @@
   width: 10rem;
   height: 10rem;
   perspective: 1000px;
-  
+  border-radius: 30px;
 }
 
 .flipcardinner {
@@ -36,12 +36,16 @@
   height: 100%;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  
+  /* border-radius: 30px; */
 }
 
 .flipcardfront {
   background-color: #bbb;
   color: black;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: tomato;
+box-shadow: inset 0px 1px 11px 3px tomato;
 }
 
 .flipcardback {
@@ -49,6 +53,11 @@
   color: white;
   transform: rotateY(180deg);
   border-radius: 30px;
+  display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  
 }
 .root {
   box-sizing: border-box;
